@@ -1,0 +1,12 @@
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\bin\Debug\NisargAssignment2.exe.config
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\bin\Debug\NisargAssignment2.exe
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\bin\Debug\NisargAssignment2.pdb
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.csprojAssemblyReference.cache
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.Form1.resources
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.Properties.Resources.resources
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.RockPaperScissors.resources
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.csproj.GenerateResource.cache
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.exe
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.pdb
+C:\Users\nisar\source\repos\NisargAssignment2Solution\NisargAssignment2\obj\Debug\NisargAssignment2.TotalSales.resources
